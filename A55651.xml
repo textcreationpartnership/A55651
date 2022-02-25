@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prayers for the King to be used in all churches, and chapels immediately before the prayer of S. Chrysostom, both in the morning and evening service.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55651</idno>
+            <idno type="STC">Wing P3195A</idno>
+            <idno type="STC">ESTC R7124</idno>
+            <idno type="EEBO-CITATION">12088514</idno>
+            <idno type="OCLC">ocm 12088514</idno>
+            <idno type="VID">53805</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55651)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53805)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 820:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Prayers for the King to be used in all churches, and chapels immediately before the prayer of S. Chrysostom, both in the morning and evening service.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of John Bill ... and by Henry Hills, and Thomas Newcomb ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Febr. 4. 1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Liturgy.</term>
+               <term>Church of England --  Prayer-books and devotions --  English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="prayer">
+            <pb n="1" facs="tcp:53805:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 18 -->
+            <head>PRAYERS FOR THE KING; To be uſed in all Churches, and Cha<g ref="char:EOLhyphen"/>pels immediately before the Prayer of S. <hi>Chryſoſtom,</hi> both in the Morning and Evening-Service. <add>during the sicknesse of King Charles the 2<hi rend="sup">d</hi>.</add>
+            </head>
+            <stage>¶ The Miniſter ſtanding up, ſhall ſay,</stage>
+            <sp>
+               <p>
+                  <seg rend="decorInit">B</seg>Rethren; Although it hath pleas'd Almighty God to be very gracious to theſe Three Kingdoms, in giving us ſo good Popes of His Maje<g ref="char:EOLhyphen"/>ſtie's Recovery from His late dangerous ſickneſs; Ne<g ref="char:EOLhyphen"/>vertheleſs it is thought fit, that, ſo long as his weakneſs ſhall continue up<g ref="char:EOLhyphen"/>on him, Prayers be made without ceaſing of the Church unto God for him. Wherefore I be<g ref="char:EOLhyphen"/>ſeech you, to joyn with me in offering up Sup<g ref="char:EOLhyphen"/>plications at the Throne of the heavenly Grace for the reſtoring of him to his perfect Health.</p>
+            </sp>
+            <stage>¶ Then, all kneeling down, the Miniſter ſhall ſay,</stage>
+            <sp>
+               <p>REmember not, Lord, our iniquities, nor the iniquities of our forefathers. Spare
+<pb n="2" facs="tcp:53805:2"/>
+                  <!-- PDF PAGE 19 -->
+us, good Lord, ſpace thy people, whom thou haſt redeemed with thy moſt precious bloud, and be nor angry with us for ever.</p>
+            </sp>
+            <sp>
+               <speaker>Anſwer.</speaker>
+               <p>Spare us, good Lord.</p>
+            </sp>
+            <stage>¶ Then the Miniſter ſhall ſay,</stage>
+            <sp>
+               <p>Let us pray.</p>
+               <p>Lord, have mercy upon us.</p>
+            </sp>
+            <sp>
+               <p>Chriſt, have mercy upon us.</p>
+            </sp>
+            <sp>
+               <p>Lord, have mercy upon us.</p>
+               <p>OUr Father, which art in heaven; Hallowed be thy Name. Thy kingdom come. Thy will be done in earth, As it is in heaven. Give us this day our daily bread. And forgive us our treſpaſſes, As we forgive them that treſpaſs againſt us. And lead us not into temptation; But deliver us from evil.</p>
+            </sp>
+            <sp>
+               <p>Amen.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſter.</speaker>
+               <p>O Lord, ſave thy ſervant the King.</p>
+            </sp>
+            <sp>
+               <speaker>Anſwer.</speaker>
+               <p>Who putteth his truſt in thee.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſter.</speaker>
+               <p>Send him help from thy holy place,</p>
+            </sp>
+            <sp>
+               <speaker>Anſwer.</speaker>
+               <p>And evermore mightily defend him.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſter.</speaker>
+               <p>Let the enemy have no advantage of him;</p>
+            </sp>
+            <sp>
+               <speaker>Anſwer.</speaker>
+               <p>Nor the wicked approach to hurt him.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſter.</speaker>
+               <p>Be unto him, O Lord, a ſtrong tower,</p>
+            </sp>
+            <sp>
+               <speaker>Anſwer.</speaker>
+               <p>From the face of his Enemy.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſter.</speaker>
+               <p>O Lord, hear our prayers.</p>
+            </sp>
+            <sp>
+               <speaker>Anſwer.</speaker>
+               <p>And let our cry come unto thee.</p>
+            </sp>
+            <sp>
+               <pb n="3" facs="tcp:53805:2"/>
+               <!-- PDF PAGE 19 -->
+               <speaker>Miniſter.</speaker>
+               <p>
+                  <hi>O</hi> Lord, look down from heaven, behold, vi<g ref="char:EOLhyphen"/>ſit and relieve thy ſervant, the King. Look upon him with the eyes of thy mercy, give him comfort and ſure confidence in thee, defend him from the danger of the enemy, and keep him in perpetual peace and ſafety, through Jeſus Chriſt our Lord.</p>
+            </sp>
+            <sp>
+               <p>Amen.</p>
+            </sp>
+            <sp>
+               <p>HEar us, Almighty and moſt merciful God and Saviour; Extend thy accuſtomed goodneſs to thy ſervant who is grieved with ſickneſs. Sanctifie, we beſeech thee, this thy fatherly correction to him; that the ſenſe of his weakneſs may add ſtrength to his faith, and ſe<g ref="char:EOLhyphen"/>riouſneſs to his repentance: That if it ſhall be thy good pleaſure to reſtore him to his former health, he may lead the reſidue of his life in thy fear, and to thy glory: or elſe give him grace ſo to take thy viſitation, that after this painful life ended, he may dwell with thee in life ever<g ref="char:EOLhyphen"/>laſting, through Ieſus Chriſt our Lord.</p>
+            </sp>
+            <sp>
+               <p>Amen.</p>
+            </sp>
+            <sp>
+               <p>ALmighty everliving God, maker of man<g ref="char:EOLhyphen"/>kind, who doſt correct thoſe whom thou doſt love, and chaſtiſe every one whom thou doſt receive; We beſeech thee to have mercy upon thy ſervant viſited with thine hand, and to grant that he may take his ſickneſs patiently, and recover his bodily health (if it be thy gra<g ref="char:EOLhyphen"/>cious will) and whenſoever his ſoul ſhall depart from the body, it may be without ſpot preſented unto thee, through Ieſus Chriſt our Lord.</p>
+            </sp>
+            <sp>
+               <p>Amen.</p>
+            </sp>
+            <sp>
+               <p>
+                  <hi>O</hi> Saviour of the world, who by thy Croſs and precious bloud haſt redeemed us, ſave us and help us, we humbly beſeech thee, O Lord.</p>
+               <pb n="4" facs="tcp:53805:3"/>
+               <!-- PDF PAGE 20 -->
+               <p>THe Almighty Lord, who is a moſt ſtrong tower to all them that put their truſt in him, to whom all things in heaven, in earth, and under the earth do bowe and obey, be now, and ever more his defence, and make him know and feel, that there is none other name under heaven given to man, in whom, and through whom he may receive health and ſalvation, but onely the Name of our Lord Ieſus Chriſt.</p>
+            </sp>
+            <sp>
+               <p>Amen.</p>
+            </sp>
+            <sp>
+               <p>UNto Gods gracious mercy and protection we commit him. The Lord bleſs him, and keep him. The Lord make his face to ſhine upon him, and be gracious unto him. The Lord lift up his countenance upon him, and give him peace, both now and evermore.</p>
+            </sp>
+            <sp>
+               <p>Amen.</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by the Aſſigns of <hi>John Bill</hi> deceas'd: And by <hi>Henry Hills,</hi> and <hi>Thomas Newcomb</hi> Printers to the Kings moſt Excellent Majeſty. <hi>Febr.</hi> 4. 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
